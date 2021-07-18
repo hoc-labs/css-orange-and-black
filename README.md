@@ -2,7 +2,7 @@
 
 Reproduce this HTML content in the screen capture below.
 
-![](https://raw.githubusercontent.com/intro-web-dev-master/images/main/orange-black.png)
+![](https://raw.githubusercontent.com/hoc-labs/images/main/orange-black.png)
 
 ###  Create Your Start Files
 
